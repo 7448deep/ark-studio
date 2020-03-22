@@ -181,14 +181,14 @@ margin-bottom: 100px;
   
 }
 
-.cta_link{
+#cta_link{
     flex-basis: 30%;
     display: flex;
 
 }
 
 
-.footer_widget
+.footer_widget1
 {
     width: 1200px;
     text-align: center;
